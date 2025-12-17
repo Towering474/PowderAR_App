@@ -21,7 +21,7 @@ class CameraViewActivity : AppCompatActivity(R.layout.activity_camera_view) {
 
     companion object {
         const val LENS_GROUP_ID = "ed39b326-6f8c-4d3f-8ea0-d4002487a8d9"
-        const val LENS_ID = "6ebb316c-dfb6-4514-a531-01e8facb8d5d"
+        const val LENS_ID = "b28ef636-a50a-4309-9164-716ccc9fbc04"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
